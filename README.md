@@ -58,6 +58,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/IgorLeandro22/IgorLeandro22/output/snake.svg" alt="Snake animation" />
-
-###
